@@ -1,0 +1,30 @@
+#header {
+    position: fixed;
+    left: 0;
+    top: 0;
+    width: 100%;
+    z-index: 10000;
+}
+
+.header__inner {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    background-color: rgba(0, 0, 0, 0.3);
+    color: var(--white);
+    padding: 1rem;
+}
+
+.header__logo {}
+
+.header__nav {}
+
+.header__nav li {
+    display: inline;
+    padding: 1rem;
+}
+
+.header__nav__mobile {
+    display: none;
+}
