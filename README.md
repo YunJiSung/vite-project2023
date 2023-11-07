@@ -30,4 +30,3 @@ Vite는 JavaScript 애플리케이션을 개발하기 위한 빠르고 경량화
 <details>
 <summary>git 업로드 버그</summary>
 권한으로 인한 업로드 버그 현상이 생김 > 해결
-git 
